@@ -1,9 +1,8 @@
 import axios from 'axios';
 
 // IMPORTANT: Replace this with a valid TMDB API Key if not using environment variables.
-// For the purpose of this assignment, if no environment variable is provided,
-// we will fallback to a hardcoded key. 
-const API_KEY = process.env.TMDB_API_KEY || 'YOUR_TMDB_API_KEY_HERE';
+// Using the API Key provided by the user
+const API_KEY = process.env.TMDB_API_KEY || '3f06ca16bb200606315e963bf2f1ef20';
 
 const BASE_URL = 'https://api.themoviedb.org/3';
 
