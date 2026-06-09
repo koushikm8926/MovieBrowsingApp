@@ -2,6 +2,14 @@
 
 This is a React Native mobile application built for the GARS Technology Internshala assignment. It is a cross-platform movie browsing application that integrates with the TMDB API to deliver dynamic media content, smooth transitions, and inline trailer playback.
 
+## Showcase
+
+**App Demonstration (iPhone 16 Pro)**  
+Watch the screen recording demonstrating the app running on the iOS Simulator:  
+[demo.mov](./demo.mov)
+
+*(Note: When publishing to GitHub, you can drag and drop `demo.mov` directly into the GitHub web editor to embed it as a playable video.)*
+
 ## Technical Details
 
 - **Framework**: React Native (Bare Workflow) v0.85.3
