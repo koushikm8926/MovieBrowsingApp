@@ -6,9 +6,7 @@ This is a React Native mobile application built for the GARS Technology Internsh
 
 **App Demonstration (iPhone 16 Pro)**  
 Watch the screen recording demonstrating the app running on the iOS Simulator:  
-[demo.mov](./demo.mov)
-
-*(Note: When publishing to GitHub, you can drag and drop `demo.mov` directly into the GitHub web editor to embed it as a playable video.)*
+[View App Demonstration on Google Drive](https://drive.google.com/file/d/1NJ3qAyODFjki8MT6zMuAWYf_4qHWl9LO/view?usp=sharing)
 
 ## Technical Details
 
